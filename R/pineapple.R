@@ -7,5 +7,5 @@
 #' pineapple()
 #' "I like pineapples"
 pineapple <- \() {
-  print("I like pineapples")
+  print("I like pineapples not so much")
 }
