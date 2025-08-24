@@ -5,7 +5,6 @@
 #'
 #' @examples
 #' pineapple()
-#' "I like pineapples"
 pineapple <- \() {
-  print("I like pineapples not so much")
+  print("I like pineapples not so much, but mangos and blueberries")
 }
